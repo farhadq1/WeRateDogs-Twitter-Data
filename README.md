@@ -1,5 +1,3 @@
-# #WeRateDogs Twitter Data
-
 ### List of files
 
 - wrangle_act.ipynb: code for gathering, assessing, cleaning, analyzing, and visualizing data
